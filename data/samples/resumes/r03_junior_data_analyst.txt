@@ -1,0 +1,19 @@
+Sofia Marchetti
+sofia.m@example.com
+Age: 23 | Gender: Female
+
+Objective
+Detail-oriented junior data analyst looking to grow in a commercial insights team.
+
+Experience
+Data Analyst Intern, BrightRetail | Jun 2023 - Aug 2024
+- Wrote SQL queries to analyse weekly sales data and built Tableau dashboards for store managers
+- Cleaned and analysed survey data in Python with Pandas
+- Presented findings to the regional sales team
+
+Education
+BSc Economics, University of Bologna, 2023
+Relevant modules: statistics, econometrics, regression analysis
+
+Skills
+SQL, Excel, Tableau, Python, Pandas, Statistics, Communication

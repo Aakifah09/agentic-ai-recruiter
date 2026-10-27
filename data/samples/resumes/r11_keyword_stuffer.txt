@@ -1,0 +1,16 @@
+Jordan Blake
+jordan.blake@example.com
+
+Summary
+Motivated professional.
+
+Skills
+Python, LLMs, RAG, AI Agents, Prompt Engineering, LangChain, FastAPI, Docker, Kubernetes, AWS, Azure, SQL, Git, Model Evaluation, Vector Databases, Streamlit
+
+Experience
+Customer Service Advisor, CallPoint | Jan 2022 - Present
+- Handled customer queries by phone and email
+- Trained new starters on the CRM
+
+Education
+Diploma in Business, 2021

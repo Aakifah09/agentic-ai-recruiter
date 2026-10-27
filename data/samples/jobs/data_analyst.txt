@@ -1,0 +1,24 @@
+Data Analyst - Commercial Insights
+
+We are looking for a young, energetic rockstar to join our commercial team. You must be a native English speaker and a great culture fit.
+
+What you'll do:
+- Build and maintain Power BI dashboards for sales and operations
+- Write SQL queries to extract and analyse data from our data warehouse
+- Perform statistical analysis to explain trends and measure campaign performance
+- Present insights clearly to non-technical stakeholders
+
+What we're looking for:
+- 2+ years of experience in a data analysis role
+- Advanced SQL
+- Advanced Excel (pivot tables, lookups)
+- Power BI or Tableau
+- Python with Pandas for data analysis
+- Good understanding of statistics
+- Excellent communication skills
+- Bachelor's degree in a quantitative subject
+
+Preferred:
+- Experience with dbt or Airflow
+- Stakeholder management experience
+- Exposure to financial modelling

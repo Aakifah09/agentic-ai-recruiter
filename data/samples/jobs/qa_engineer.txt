@@ -1,0 +1,23 @@
+Role: QA Automation Engineer
+
+You will own test automation for our Python microservices and web front end.
+
+Responsibilities:
+- Design automated test suites for REST APIs and web applications
+- Build and maintain pytest and Selenium frameworks
+- Integrate tests into CI/CD pipelines and monitor quality metrics
+- Collaborate with developers in an Agile team to improve testability
+
+Requirements:
+- 2+ years of experience in software testing or test automation
+- Python and pytest
+- Selenium
+- Testing REST APIs
+- CI/CD (GitHub Actions or Jenkins)
+- Git
+
+Nice to have:
+- Docker
+- Java
+- SQL
+- Experience working in Agile / Scrum teams

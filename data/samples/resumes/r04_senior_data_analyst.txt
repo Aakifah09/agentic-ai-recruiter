@@ -1,0 +1,22 @@
+Kwame Mensah
+k.mensah@example.net | +233 20 555 0199
+
+Professional Summary
+Data analyst with 5 years of experience turning commercial data into decisions.
+
+Professional Experience
+Senior Data Analyst at Orbit Telecom | Feb 2021 - Present
+- Built and maintained 30+ Power BI dashboards used by sales and operations leadership
+- Wrote advanced SQL on Snowflake and modelled data with dbt
+- Ran hypothesis testing and regression analysis to measure campaign uplift
+- Managed stakeholder relationships with commercial directors and presented monthly insights
+
+Data Analyst at Ledger & Co | Jan 2019 - Jan 2021
+- Automated Excel reporting with pivot tables and VBA; built Python and Pandas scripts for data cleaning
+- Supported financial modelling for the annual budget
+
+Education
+BSc Statistics, University of Ghana, 2018
+
+Skills
+SQL, Power BI, Excel, Python, Pandas, dbt, Statistics, Stakeholder Management, Communication

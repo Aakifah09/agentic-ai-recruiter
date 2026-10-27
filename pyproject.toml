@@ -1,0 +1,11 @@
+[project]
+name = "agentic-ai-recruiter"
+version = "1.0.0"
+description = "Multi-agent, evidence-grounded talent matching and recruitment assistant"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+filterwarnings = ["ignore::DeprecationWarning"]

@@ -1,0 +1,31 @@
+Job Title: AI Engineer - Agentic Systems
+
+Northwind Analytics is building LLM-powered assistants for enterprise customers. You will join a small team that designs, ships and evaluates multi-agent workflows.
+
+Key Responsibilities:
+- Design and build agentic AI workflows that orchestrate multiple LLM agents
+- Develop retrieval augmented generation (RAG) pipelines over enterprise documents
+- Write and iterate on prompts, and build evaluation harnesses to measure quality
+- Expose AI services through FastAPI and deploy them with Docker
+- Work with product owners and stakeholders to translate business requirements into AI solutions
+
+Requirements:
+- 3+ years of professional experience in software or machine learning engineering
+- Strong Python skills
+- Hands-on experience with LLMs and prompt engineering
+- Experience building RAG systems and AI agents
+- Experience with REST APIs (FastAPI or Flask)
+- Docker and Git
+- Solid SQL
+- Experience with model evaluation and testing of ML systems
+- Bachelor's degree in Computer Science, Engineering or a related field
+
+Nice to have:
+- LangChain or LlamaIndex
+- Vector databases such as FAISS or pgvector
+- AWS or Azure
+- Kubernetes
+- Streamlit for internal demos
+
+What we offer:
+- Hybrid working, learning budget, private health insurance

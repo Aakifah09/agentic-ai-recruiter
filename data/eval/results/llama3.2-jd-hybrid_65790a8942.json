@@ -1,0 +1,228 @@
+{
+  "experiment_id": "65790a8942",
+  "name": "llama3.2-jd-hybrid",
+  "provider": "ollama:llama3.2:latest",
+  "metrics": {
+    "jd_skill_precision": 0.9268,
+    "jd_skill_recall": 0.9762,
+    "jd_skill_f1": 0.9488,
+    "jd_importance_accuracy": 1.0,
+    "resume_skill_precision": 0.9924,
+    "resume_skill_recall": 0.9514,
+    "resume_skill_f1": 0.9707,
+    "ndcg@3": 0.9907,
+    "ndcg@5": 0.9788,
+    "precision@3": 0.8889,
+    "spearman_rho": 0.8461,
+    "pairwise_accuracy": 0.9481,
+    "evidence_grounding_rate": 1.0,
+    "pii_leak_rate": 0.0,
+    "bias_flag_recall": 1.0,
+    "latency_s_per_candidate": 8.6284
+  },
+  "per_job": {
+    "ai_engineer.txt": {
+      "title": "AI Engineer - Agentic Systems",
+      "ranking": [
+        {
+          "candidate": "r01_senior_ai_engineer.txt",
+          "score": 93.3,
+          "gold_grade": 3
+        },
+        {
+          "candidate": "r02_ml_engineer.txt",
+          "score": 61.5,
+          "gold_grade": 2
+        },
+        {
+          "candidate": "r08_graduate_ai.txt",
+          "score": 57.6,
+          "gold_grade": 2
+        },
+        {
+          "candidate": "r05_qa_engineer.txt",
+          "score": 55.1,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r09_data_engineer.txt",
+          "score": 50.1,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r06_fullstack_dev.txt",
+          "score": 46.0,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r04_senior_data_analyst.txt",
+          "score": 45.3,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r10_sdet_java.txt",
+          "score": 44.7,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r11_keyword_stuffer.txt",
+          "score": 36.7,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r03_junior_data_analyst.txt",
+          "score": 33.3,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r07_marketing.txt",
+          "score": 4.5,
+          "gold_grade": 0
+        }
+      ],
+      "jd_f1": 0.927,
+      "ndcg@3": 1.0
+    },
+    "data_analyst.txt": {
+      "title": "Data Analyst - Commercial Insights",
+      "ranking": [
+        {
+          "candidate": "r04_senior_data_analyst.txt",
+          "score": 89.9,
+          "gold_grade": 3
+        },
+        {
+          "candidate": "r09_data_engineer.txt",
+          "score": 70.3,
+          "gold_grade": 2
+        },
+        {
+          "candidate": "r03_junior_data_analyst.txt",
+          "score": 68.2,
+          "gold_grade": 2
+        },
+        {
+          "candidate": "r02_ml_engineer.txt",
+          "score": 58.8,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r01_senior_ai_engineer.txt",
+          "score": 49.7,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r05_qa_engineer.txt",
+          "score": 36.1,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r07_marketing.txt",
+          "score": 34.5,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r08_graduate_ai.txt",
+          "score": 25.9,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r10_sdet_java.txt",
+          "score": 18.8,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r11_keyword_stuffer.txt",
+          "score": 16.4,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r06_fullstack_dev.txt",
+          "score": 15.0,
+          "gold_grade": 0
+        }
+      ],
+      "jd_f1": 0.963,
+      "ndcg@3": 1.0
+    },
+    "qa_engineer.txt": {
+      "title": "QA Automation Engineer",
+      "ranking": [
+        {
+          "candidate": "r05_qa_engineer.txt",
+          "score": 87.4,
+          "gold_grade": 3
+        },
+        {
+          "candidate": "r01_senior_ai_engineer.txt",
+          "score": 72.8,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r10_sdet_java.txt",
+          "score": 72.0,
+          "gold_grade": 2
+        },
+        {
+          "candidate": "r06_fullstack_dev.txt",
+          "score": 52.6,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r02_ml_engineer.txt",
+          "score": 50.5,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r09_data_engineer.txt",
+          "score": 49.5,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r04_senior_data_analyst.txt",
+          "score": 45.3,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r08_graduate_ai.txt",
+          "score": 45.0,
+          "gold_grade": 1
+        },
+        {
+          "candidate": "r03_junior_data_analyst.txt",
+          "score": 37.3,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r11_keyword_stuffer.txt",
+          "score": 24.3,
+          "gold_grade": 0
+        },
+        {
+          "candidate": "r07_marketing.txt",
+          "score": 15.0,
+          "gold_grade": 0
+        }
+      ],
+      "jd_f1": 0.957,
+      "ndcg@3": 0.972
+    }
+  },
+  "config": {
+    "scoring": {
+      "skill_weight": 0.65,
+      "experience_weight": 0.2,
+      "qualification_weight": 0.15,
+      "demonstrated_credit": 1.0,
+      "listed_credit": 0.5,
+      "related_credit": 0.3,
+      "strong_threshold": 70,
+      "limited_threshold": 45,
+      "min_essential_coverage_for_strong": 75
+    },
+    "provider": "ollama:llama3.2:latest",
+    "llm_stages": [
+      "jd"
+    ]
+  }
+}

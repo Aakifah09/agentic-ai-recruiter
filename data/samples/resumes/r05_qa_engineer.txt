@@ -1,0 +1,25 @@
+Lena Kowalski
+lena.kowalski@example.com | 07700 900456
+
+Summary
+QA automation engineer with 4 years of experience in Python test automation.
+
+Experience
+QA Automation Engineer | ShopStream | Apr 2021 - Present
+- Built a pytest framework for 120 REST API endpoints and integrated it into GitHub Actions CI/CD
+- Maintained Selenium end-to-end tests for the web checkout; reduced flaky tests by 40%
+- Containerised test environments with Docker
+- Worked in a Scrum team and joined sprint planning
+
+Software Tester | Testify Ltd | Mar 2020 - Mar 2021
+- Executed manual and automated testing; wrote SQL to validate test data
+- Version control with Git
+
+Education
+BSc Software Engineering, 2020
+
+Certifications
+ISTQB Foundation Level
+
+Skills
+Python, Pytest, Selenium, REST APIs, CI/CD, Docker, Git, SQL, Agile

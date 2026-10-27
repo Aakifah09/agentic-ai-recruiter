@@ -1,0 +1,17 @@
+Ravi Patel
+ravi.patel@example.com
+
+Summary
+Software development engineer in test with 3 years of experience.
+
+Experience
+SDET, FinPay | Aug 2021 - Present
+- Built Java and Selenium WebDriver UI automation and REST API tests with RestAssured
+- Ran suites in Jenkins CI/CD pipelines and tracked quality metrics
+- Worked in an Agile team using Jira; used Git for version control
+
+Education
+B.Tech Information Technology, 2021
+
+Skills
+Java, Selenium, REST APIs, Jenkins, Git, Agile, SQL

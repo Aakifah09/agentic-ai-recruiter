@@ -1,0 +1,23 @@
+Noah Fischer
+noah.fischer@example.com | github.com/noahf
+
+Summary
+Recent computer science graduate passionate about generative AI and agent workflows.
+
+Projects
+Agentic research assistant (2024)
+- Built a multi-agent system in Python with LangChain where a planner agent delegates to search and summariser agents
+- Implemented RAG over arXiv papers using FAISS and Ollama local models
+- Designed prompt templates and measured answer quality with an evaluation set of 200 questions
+- Shipped a Streamlit front end and a FastAPI backend
+
+Experience
+Machine Learning Intern, CloudMind | Jun 2023 - Sep 2023
+- Fine-tuned Hugging Face transformers for text classification
+- Wrote pytest unit tests and used Git with GitHub
+
+Education
+BSc Computer Science, Technical University of Munich, 2024
+
+Skills
+Python, LLMs, RAG, LangChain, FAISS, Prompt Engineering, Streamlit, FastAPI, Git, SQL

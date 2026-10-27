@@ -1,0 +1,26 @@
+Amara Okafor-Lind
+amara.lind@example.com | +44 7700 900123 | linkedin.com/in/amaralind
+Date of Birth: 14/03/1990
+Nationality: British
+
+Summary
+Senior AI engineer with 6 years of experience shipping LLM products and ML systems in production.
+
+Experience
+Senior AI Engineer | Helix Labs | Jan 2022 - Present
+- Designed a multi-agent workflow in Python that orchestrates planner, retriever and reviewer LLM agents for contract analysis
+- Built RAG pipelines with LangChain and pgvector over 2M enterprise documents, improving answer accuracy by 18%
+- Wrote prompt engineering guidelines and an evaluation harness with golden datasets and LLM-as-judge model evaluation
+- Served models through FastAPI microservices deployed with Docker and Kubernetes on AWS
+
+Machine Learning Engineer | DataForge | Jun 2019 - Dec 2021
+- Developed scikit-learn and PyTorch models for churn prediction; wrote SQL feature pipelines on PostgreSQL
+- Set up CI/CD with GitHub Actions and pytest for model code
+- Mentored two junior engineers
+
+Education
+MSc Computer Science, University of Leeds, 2019
+BSc Mathematics, University of York, 2017
+
+Skills
+Python, SQL, LLMs, RAG, LangChain, FAISS, Docker, Kubernetes, AWS, FastAPI, Git, Streamlit

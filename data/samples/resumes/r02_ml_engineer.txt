@@ -1,0 +1,21 @@
+Daniel Reyes
+daniel.reyes@example.org | (555) 201-3344
+
+Profile
+Machine learning engineer focused on computer vision and MLOps.
+
+Work Experience
+ML Engineer, VisionWorks | Mar 2020 - Present
+- Trained PyTorch object detection models and deployed them with Docker on AWS SageMaker
+- Built MLflow based model monitoring and automated retraining with Airflow
+- Experimented with LLMs (OpenAI API) to auto-generate image captions
+
+Data Scientist, RetailIQ | Jul 2018 - Feb 2020
+- Built XGBoost demand forecasting models in Python and Pandas
+- Wrote SQL against Redshift
+
+Education
+B.Eng Electrical Engineering, 2018
+
+Technical Skills
+Python, PyTorch, TensorFlow, Docker, AWS, MLflow, Airflow, SQL, Git, Linux

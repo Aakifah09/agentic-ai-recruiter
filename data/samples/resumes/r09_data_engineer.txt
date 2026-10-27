@@ -1,0 +1,20 @@
+Aisha Rahman
+aisha.rahman@example.com | +971 50 123 4567
+
+Summary
+Data engineer with 4 years of experience building batch and streaming data pipelines.
+
+Experience
+Data Engineer | Meridian Bank | May 2021 - Present
+- Built Spark (PySpark) ETL jobs processing 5TB per day and orchestrated them with Airflow
+- Modelled the data warehouse in dbt on BigQuery; wrote complex SQL
+- Built Python data quality checks and alerting
+
+Junior Data Engineer | InfoGrid | Jun 2020 - Apr 2021
+- Maintained Excel and SQL based reporting and migrated it to Power BI
+
+Education
+MSc Data Science, 2020
+
+Skills
+Python, SQL, Spark, Airflow, dbt, BigQuery, Power BI, Git, Docker

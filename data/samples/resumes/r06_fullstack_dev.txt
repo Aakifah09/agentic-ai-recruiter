@@ -1,0 +1,21 @@
+Marcus Chen
+marcus.chen@example.com
+
+Summary
+Full-stack developer building web products with React and Node.js.
+
+Experience
+Full-Stack Developer, PixelCart | Sep 2020 - Present
+- Built React and TypeScript front ends and Node.js REST APIs
+- Deployed services with Docker; maintained CI/CD with Jenkins
+- Wrote unit tests and integration tests for APIs
+- Used MongoDB and Redis for caching
+
+Junior Web Developer, Studio Nine | Jan 2019 - Aug 2020
+- Built HTML/CSS and JavaScript sites for small business clients
+
+Education
+BSc Computer Science, 2018
+
+Skills
+JavaScript, TypeScript, React, Node.js, Docker, Git, MongoDB, HTML/CSS
